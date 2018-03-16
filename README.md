@@ -31,6 +31,7 @@ We'd love to see new instances supporting us :)
 * mastodon.at
 * mastodonten.de
 * octodon.social
+* fasterwhen.red
 * maly.io
 * aleph.land
 * mastodon.club

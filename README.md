@@ -46,6 +46,7 @@ We'd love to see new instances supporting us :)
 * soc.ialis.me
 * cybre.space
 * witches.town
+* tonos.io
 
 #### Down instances
 
